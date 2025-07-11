@@ -13,7 +13,6 @@
     display: flex;
     width: 1513px;
     margin: auto;
-    justify-content: center;
 }
 
 .leftlogo {
@@ -79,7 +78,7 @@
     display: flex;
     /* border: 2px solid yellow; */
     border-radius: 4px;
-    margin-left: 21px;
+    margin-left: 9px;
     margin-top: 5px;
     height: 41px;
 }
@@ -112,7 +111,7 @@
 }
 
 #type {
-    width: 664px;
+    width: 680px;
     height: 41px;
     border: none;
     font-size: 15px;
@@ -482,7 +481,7 @@ hr{
     /* padding: 13px; */
     margin: 0.5px 5.7px;
     font-size: 14px;
-    padding-top: 10px;
+    padding-top: 11px;
     padding-left: 4px;
     padding-right: 4px;
 }
@@ -501,14 +500,14 @@ hr{
 
 #all{
     width: 47px;
-    margin-left: 16px;
+    margin-left: 14px;
     padding-right: 2px;
     margin-right: 0px;
 }
 
 #all span{
     position: relative;
-    bottom: 4px;
+    bottom: 6px;
 }
 
 #more3{
