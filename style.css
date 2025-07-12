@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     font-family: "Amazon Ember", Arial, sans-serif;
-    ;
 }
 
 #topnav {
@@ -516,4 +515,20 @@ hr{
 
 #fresh{
     margin-left: 0px;
+}
+
+/* Main body */
+
+.container{
+    width: 1517px;
+    margin: auto;
+    height: auto;
+    background-color: #e3e6e6;
+}
+
+.ppt{
+    width: 1500px;
+    margin: auto;
+    height: 625px;
+    background: linear-gradient(to bottom, #0678ff, #e3e6e6);
 }
